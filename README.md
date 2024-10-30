@@ -46,7 +46,7 @@ npm install
 ### 3. Start the Application
 Run the following command to start the app:
 ```bash
-npm start
+npm run dev
 ```
 This command will start a development server, and you should see output indicating the app is running. By default, the app can be accessed by navigating to http://localhost:3000 in your web browser.
 
